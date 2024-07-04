@@ -1,0 +1,17 @@
+/* GENERAL */
+
+:root {
+    --background-color: #1ABC9C;
+}
+
+/* STYLE */
+
+/** First Section **/
+
+.container_one {
+    background-color: var(--background-color);
+}
+
+#footer_color {
+    background-color: #2C3E50;
+}
