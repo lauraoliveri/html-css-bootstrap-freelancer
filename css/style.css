@@ -8,10 +8,27 @@
 
 /** First Section **/
 
-.container_one {
+.container_one, .about_background  {
     background-color: var(--background-color);
 }
 
 #footer_color {
+    background-color: #2B3C4C;
+}
+
+.info_background {
     background-color: #2C3E50;
+}
+
+.img_one_size {
+    width: 100px;
+}
+.color_blue {
+    color: #1ABC9C;
+}
+
+.icons_border {
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
 }
